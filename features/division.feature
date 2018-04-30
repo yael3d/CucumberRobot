@@ -7,4 +7,4 @@ Feature: Division
     * I have entered 3 into the calculator
     * I have entered 2 into the calculator
     * I press divide
-    * the result should be 157 on the screen
+    * the result should be 1.5 on the screen
