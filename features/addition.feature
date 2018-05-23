@@ -21,7 +21,7 @@ Feature: Addition1
   As a math idiot 
   I want to be told the sum of two numbers
 
-  Scenario Outline: Add two numbers
+  Scenario Outline: Add two numbers1
     Given I have entered <input_1> into the calculator
     And I have entered <input_2> into the calculator
     When I press <button>
