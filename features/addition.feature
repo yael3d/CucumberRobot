@@ -16,7 +16,7 @@ Feature: Addition
     | 2       | 5       | add    | 7      |
     | 0       | 40      | add    | 40     |
 
-Feature: Addition
+Feature: Addition1
   In order to avoid silly mistakes
   As a math idiot 
   I want to be told the sum of two numbers
