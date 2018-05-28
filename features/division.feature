@@ -8,3 +8,9 @@ Feature: Division
     * I have entered 2 into the calculator
     * I press divide
     * the result should be 1.5 on the screen
+    
+  Scenario: Regular numbers 2
+    * I have entered 4 into the calculator
+    * I have entered 2 into the calculator
+    * I press divide
+    * the result should be 2 on the screen
