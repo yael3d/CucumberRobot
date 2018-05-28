@@ -13,5 +13,5 @@ Feature: Addition
   Examples:
     | input_1 | input_2 | button | output |
     | 20      | 30      | add    | 50     |
-    | 2       | 5       | add    | 7      |
+    | 2       | 5       | add    | 71      |
     | 0       | 40      | add    | 40     |
