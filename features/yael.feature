@@ -1,5 +1,5 @@
 # language: en
-Feature: Addition
+Feature: Addition.yael
   In order to avoid silly mistakes
   As a math idiot 
   I want to be told the sum of two numbers
